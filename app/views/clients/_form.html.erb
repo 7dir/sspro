@@ -1,0 +1,77 @@
+<%= form_with(model: client, local: true) do |form| %>
+  <% if client.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(client.errors.count, "error") %> prohibited this client from being saved:</h2>
+
+      <ul>
+      <% client.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :name %>
+    <%= form.text_field :name, id: :client_name %>
+  </div>
+
+  <div class="field">
+    <%= form.label :port %>
+    <%= form.number_field :port, id: :client_port %>
+  </div>
+
+  <div class="field">
+    <%= form.label :password %>
+    <%= form.text_field :password, id: :client_password %>
+  </div>
+
+  <div class="field">
+    <%= form.label :st %>
+    <%= form.check_box :st, id: :client_st %>
+  </div>
+
+  <div class="field">
+    <%= form.label :ldate %>
+    <%= form.date_select :ldate, id: :client_ldate %>
+  </div>
+
+  <div class="field">
+    <%= form.label :ndate %>
+    <%= form.date_select :ndate, id: :client_ndate %>
+  </div>
+
+  <div class="field">
+    <%= form.label :cash %>
+    <%= form.number_field :cash, id: :client_cash %>
+  </div>
+
+  <div class="field">
+    <%= form.label :ver %>
+    <%= form.text_field :ver, id: :client_ver %>
+  </div>
+
+  <div class="field">
+    <%= form.label :device %>
+    <%= form.text_field :device, id: :client_device %>
+  </div>
+
+  <div class="field">
+    <%= form.label :mac %>
+    <%= form.text_field :mac, id: :client_mac %>
+  </div>
+
+  <div class="field">
+    <%= form.label :ip %>
+    <%= form.text_field :ip, id: :client_ip %>
+  </div>
+
+  <div class="field">
+    <%= form.label :desc %>
+    <%= form.text_field :desc, id: :client_desc %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  port: 1
+  password: MyString
+  st: false
+  ldate: 2018-03-03
+  ndate: 2018-03-03
+  cash: 1
+  ver: MyString
+  device: MyString
+  mac: MyString
+  ip: MyString
+  desc: MyString
+
+two:
+  name: MyString
+  port: 1
+  password: MyString
+  st: false
+  ldate: 2018-03-03
+  ndate: 2018-03-03
+  cash: 1
+  ver: MyString
+  device: MyString
+  mac: MyString
+  ip: MyString
+  desc: MyString
