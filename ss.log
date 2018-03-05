@@ -1,0 +1,212 @@
+2018/03/05 11:23:24 server listening port 8388 ...
+2018/03/05 11:23:24 server listening port 8389 ...
+2018/03/05 11:23:24 server listening port 8990 ...
+2018/03/05 11:24:07 creating cipher for port: 8388
+[DEBUG] 11:24:07 new client 79.105.24.95:58221->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting clients4.google.com:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58128->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting stat.radar.imgsmail.ru:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58142->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting stat.radar.imgsmail.ru:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58151->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting e.mail.ru:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58167->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting www.google.ru:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58171->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting www.google.ru:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58179->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting www.google.com:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58183->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting safebrowsing.googleapis.com:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58187->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting www.google.ru:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58191->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting www.google.com:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58195->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting www.google.com:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58199->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting www.google.ru:443
+[DEBUG] 11:24:07 new client 79.105.24.95:58203->172.31.17.121:8388
+[DEBUG] 11:24:07 connecting www.google.ru:443
+[DEBUG] 11:24:07 piping 79.105.24.95:58183<->safebrowsing.googleapis.com:443 ota=false connOta=false
+[DEBUG] 11:24:07 piping 79.105.24.95:58221<->clients4.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:07 piping 79.105.24.95:58195<->www.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:07 piping 79.105.24.95:58191<->www.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:07 piping 79.105.24.95:58179<->www.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:07 piping 79.105.24.95:58187<->www.google.ru:443 ota=false connOta=false
+[DEBUG] 11:24:07 piping 79.105.24.95:58203<->www.google.ru:443 ota=false connOta=false
+[DEBUG] 11:24:07 piping 79.105.24.95:58167<->www.google.ru:443 ota=false connOta=false
+[DEBUG] 11:24:07 piping 79.105.24.95:58199<->www.google.ru:443 ota=false connOta=false
+[DEBUG] 11:24:07 piping 79.105.24.95:58171<->www.google.ru:443 ota=false connOta=false
+[DEBUG] 11:24:07 piping 79.105.24.95:58151<->e.mail.ru:443 ota=false connOta=false
+[DEBUG] 11:24:08 piping 79.105.24.95:58142<->stat.radar.imgsmail.ru:443 ota=false connOta=false
+[DEBUG] 11:24:08 closed pipe 79.105.24.95:58142<->stat.radar.imgsmail.ru:443
+[DEBUG] 11:24:08 piping 79.105.24.95:58128<->stat.radar.imgsmail.ru:443 ota=false connOta=false
+[DEBUG] 11:24:08 closed pipe 79.105.24.95:58128<->stat.radar.imgsmail.ru:443
+[DEBUG] 11:24:09 new client 79.105.24.95:58227->172.31.17.121:8388
+[DEBUG] 11:24:09 connecting stat.radar.imgsmail.ru:443
+[DEBUG] 11:24:09 piping 79.105.24.95:58227<->stat.radar.imgsmail.ru:443 ota=false connOta=false
+[DEBUG] 11:24:10 new client 79.105.24.95:58233->172.31.17.121:8388
+[DEBUG] 11:24:10 connecting ogs.google.com:443
+[DEBUG] 11:24:10 piping 79.105.24.95:58233<->ogs.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:10 new client 79.105.24.95:58237->172.31.17.121:8388
+[DEBUG] 11:24:10 connecting adservice.google.ru:443
+[DEBUG] 11:24:10 new client 79.105.24.95:58241->172.31.17.121:8388
+[DEBUG] 11:24:10 connecting www.googleapis.com:443
+[DEBUG] 11:24:10 piping 79.105.24.95:58241<->www.googleapis.com:443 ota=false connOta=false
+[DEBUG] 11:24:10 piping 79.105.24.95:58237<->adservice.google.ru:443 ota=false connOta=false
+[DEBUG] 11:24:12 new client 79.105.24.95:58247->172.31.17.121:8388
+[DEBUG] 11:24:12 connecting www.google.com:443
+[DEBUG] 11:24:12 piping 79.105.24.95:58247<->www.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:13 new client 79.105.24.95:58253->172.31.17.121:8388
+[DEBUG] 11:24:13 connecting www.googleadservices.com:443
+[DEBUG] 11:24:13 piping 79.105.24.95:58253<->www.googleadservices.com:443 ota=false connOta=false
+[DEBUG] 11:24:15 new client 79.105.24.95:58263->172.31.17.121:8388
+[DEBUG] 11:24:15 connecting play.google.com:443
+[DEBUG] 11:24:15 new client 79.105.24.95:58261->172.31.17.121:8388
+[DEBUG] 11:24:15 connecting notifications.google.com:443
+[DEBUG] 11:24:15 piping 79.105.24.95:58261<->notifications.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:15 piping 79.105.24.95:58263<->play.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:15 new client 79.105.24.95:58267->172.31.17.121:8388
+[DEBUG] 11:24:15 connecting apis.google.com:443
+[DEBUG] 11:24:15 piping 79.105.24.95:58267<->apis.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:15 new client 79.105.24.95:58271->172.31.17.121:8388
+[DEBUG] 11:24:15 connecting play.google.com:443
+[DEBUG] 11:24:15 piping 79.105.24.95:58271<->play.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:17 closed pipe 79.105.24.95:58195<->www.google.com:443
+[DEBUG] 11:24:17 closed pipe 79.105.24.95:58179<->www.google.com:443
+[DEBUG] 11:24:17 closed pipe 79.105.24.95:58171<->www.google.ru:443
+[DEBUG] 11:24:17 closed pipe 79.105.24.95:58187<->www.google.ru:443
+[DEBUG] 11:24:17 closed pipe 79.105.24.95:58203<->www.google.ru:443
+[DEBUG] 11:24:17 closed pipe 79.105.24.95:58199<->www.google.ru:443
+[DEBUG] 11:24:32 closed pipe 79.105.24.95:58263<->play.google.com:443
+[DEBUG] 11:24:32 closed pipe 79.105.24.95:58261<->notifications.google.com:443
+[DEBUG] 11:24:32 new client 79.105.24.95:58311->172.31.17.121:8388
+[DEBUG] 11:24:32 connecting avatars3.githubusercontent.com:443
+[DEBUG] 11:24:32 new client 79.105.24.95:58309->172.31.17.121:8388
+[DEBUG] 11:24:32 connecting assets-cdn.github.com:443
+[DEBUG] 11:24:32 new client 79.105.24.95:58314->172.31.17.121:8388
+[DEBUG] 11:24:32 connecting camo.githubusercontent.com:443
+[DEBUG] 11:24:32 new client 79.105.24.95:58318->172.31.17.121:8388
+[DEBUG] 11:24:32 connecting github.com:443
+[DEBUG] 11:24:32 new client 79.105.24.95:58315->172.31.17.121:8388
+[DEBUG] 11:24:32 connecting avatars3.githubusercontent.com:443
+[DEBUG] 11:24:32 new client 79.105.24.95:58319->172.31.17.121:8388
+[DEBUG] 11:24:32 connecting camo.githubusercontent.com:443
+[DEBUG] 11:24:32 piping 79.105.24.95:58311<->avatars3.githubusercontent.com:443 ota=false connOta=false
+[DEBUG] 11:24:32 piping 79.105.24.95:58315<->avatars3.githubusercontent.com:443 ota=false connOta=false
+[DEBUG] 11:24:32 piping 79.105.24.95:58309<->assets-cdn.github.com:443 ota=false connOta=false
+[DEBUG] 11:24:32 piping 79.105.24.95:58314<->camo.githubusercontent.com:443 ota=false connOta=false
+[DEBUG] 11:24:32 piping 79.105.24.95:58319<->camo.githubusercontent.com:443 ota=false connOta=false
+[DEBUG] 11:24:32 piping 79.105.24.95:58318<->github.com:443 ota=false connOta=false
+[DEBUG] 11:24:34 new client 79.105.24.95:58325->172.31.17.121:8388
+[DEBUG] 11:24:34 connecting avatars0.githubusercontent.com:443
+[DEBUG] 11:24:34 piping 79.105.24.95:58325<->avatars0.githubusercontent.com:443 ota=false connOta=false
+[DEBUG] 11:24:34 new client 79.105.24.95:58331->172.31.17.121:8388
+[DEBUG] 11:24:34 connecting play.google.com:443
+[DEBUG] 11:24:34 new client 79.105.24.95:58333->172.31.17.121:8388
+[DEBUG] 11:24:34 connecting notifications.google.com:443
+[DEBUG] 11:24:34 piping 79.105.24.95:58331<->play.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:34 piping 79.105.24.95:58333<->notifications.google.com:443 ota=false connOta=false
+[DEBUG] 11:24:35 new client 79.105.24.95:58339->172.31.17.121:8388
+[DEBUG] 11:24:35 connecting github.com:443
+[DEBUG] 11:24:35 piping 79.105.24.95:58339<->github.com:443 ota=false connOta=false
+[DEBUG] 11:24:35 new client 79.105.24.95:58347->172.31.17.121:8388
+[DEBUG] 11:24:35 connecting www.google-analytics.com:443
+[DEBUG] 11:24:35 new client 79.105.24.95:58343->172.31.17.121:8388
+[DEBUG] 11:24:35 connecting live.github.com:443
+[DEBUG] 11:24:35 piping 79.105.24.95:58347<->www.google-analytics.com:443 ota=false connOta=false
+[DEBUG] 11:24:35 piping 79.105.24.95:58343<->live.github.com:443 ota=false connOta=false
+[DEBUG] 11:24:36 new client 79.105.24.95:58351->172.31.17.121:8388
+[DEBUG] 11:24:36 connecting api.github.com:443
+[DEBUG] 11:24:36 piping 79.105.24.95:58351<->api.github.com:443 ota=false connOta=false
+[DEBUG] 11:24:37 new client 79.105.24.95:58357->172.31.17.121:8388
+[DEBUG] 11:24:37 connecting api.github.com:443
+[DEBUG] 11:24:37 piping 79.105.24.95:58357<->api.github.com:443 ota=false connOta=false
+[DEBUG] 11:24:37 new client 79.105.24.95:58361->172.31.17.121:8388
+[DEBUG] 11:24:37 connecting api.github.com:443
+[DEBUG] 11:24:37 piping 79.105.24.95:58361<->api.github.com:443 ota=false connOta=false
+[DEBUG] 11:24:37 new client 79.105.24.95:58365->172.31.17.121:8388
+[DEBUG] 11:24:37 connecting api.github.com:443
+[DEBUG] 11:24:37 piping 79.105.24.95:58365<->api.github.com:443 ota=false connOta=false
+[DEBUG] 11:24:39 new client 79.105.24.95:58376->172.31.17.121:8388
+[DEBUG] 11:24:39 connecting api.github.com:443
+[DEBUG] 11:24:39 new client 79.105.24.95:58377->172.31.17.121:8388
+[DEBUG] 11:24:39 new client 79.105.24.95:58379->172.31.17.121:8388
+[DEBUG] 11:24:39 connecting assets-cdn.github.com:443
+[DEBUG] 11:24:39 connecting assets-cdn.github.com:443
+[DEBUG] 11:24:39 piping 79.105.24.95:58379<->assets-cdn.github.com:443 ota=false connOta=false
+[DEBUG] 11:24:39 piping 79.105.24.95:58376<->api.github.com:443 ota=false connOta=false
+[DEBUG] 11:24:39 piping 79.105.24.95:58377<->assets-cdn.github.com:443 ota=false connOta=false
+[DEBUG] 11:24:41 new client 79.105.24.95:58387->172.31.17.121:8388
+[DEBUG] 11:24:41 connecting live.github.com:443
+[DEBUG] 11:24:41 piping 79.105.24.95:58387<->live.github.com:443 ota=false connOta=false
+[DEBUG] 11:24:43 closed pipe 79.105.24.95:58319<->camo.githubusercontent.com:443
+[DEBUG] 11:24:43 closed pipe 79.105.24.95:58315<->avatars3.githubusercontent.com:443
+[DEBUG] 11:24:43 closed pipe 79.105.24.95:58309<->assets-cdn.github.com:443
+[DEBUG] 11:24:50 closed pipe 79.105.24.95:58339<->github.com:443
+[DEBUG] 11:24:52 closed pipe 79.105.24.95:58361<->api.github.com:443
+[DEBUG] 11:24:53 closed pipe 79.105.24.95:58365<->api.github.com:443
+[DEBUG] 11:24:54 closed pipe 79.105.24.95:58376<->api.github.com:443
+[DEBUG] 11:24:59 closed pipe 79.105.24.95:58379<->assets-cdn.github.com:443
+[DEBUG] 11:24:59 closed pipe 79.105.24.95:58331<->play.google.com:443
+[DEBUG] 11:24:59 closed pipe 79.105.24.95:58377<->assets-cdn.github.com:443
+[DEBUG] 11:24:59 closed pipe 79.105.24.95:58333<->notifications.google.com:443
+[DEBUG] 11:25:02 new client 79.105.24.95:58433->172.31.17.121:8388
+[DEBUG] 11:25:02 connecting api.github.com:443
+[DEBUG] 11:25:02 new client 79.105.24.95:58447->172.31.17.121:8388
+[DEBUG] 11:25:02 connecting github.com:443
+[DEBUG] 11:25:02 new client 79.105.24.95:58438->172.31.17.121:8388
+[DEBUG] 11:25:02 connecting assets-cdn.github.com:443
+[DEBUG] 11:25:02 new client 79.105.24.95:58435->172.31.17.121:8388
+[DEBUG] 11:25:02 connecting assets-cdn.github.com:443
+[DEBUG] 11:25:02 new client 79.105.24.95:58442->172.31.17.121:8388
+[DEBUG] 11:25:02 connecting assets-cdn.github.com:443
+[DEBUG] 11:25:02 new client 79.105.24.95:58444->172.31.17.121:8388
+[DEBUG] 11:25:02 connecting api.github.com:443
+[DEBUG] 11:25:02 new client 79.105.24.95:58445->172.31.17.121:8388
+[DEBUG] 11:25:02 connecting camo.githubusercontent.com:443
+[DEBUG] 11:25:02 piping 79.105.24.95:58433<->api.github.com:443 ota=false connOta=false
+[DEBUG] 11:25:02 piping 79.105.24.95:58447<->github.com:443 ota=false connOta=false
+[DEBUG] 11:25:02 new client 79.105.24.95:58439->172.31.17.121:8388
+[DEBUG] 11:25:02 connecting assets-cdn.github.com:443
+[DEBUG] 11:25:02 piping 79.105.24.95:58435<->assets-cdn.github.com:443 ota=false connOta=false
+[DEBUG] 11:25:02 piping 79.105.24.95:58444<->api.github.com:443 ota=false connOta=false
+[DEBUG] 11:25:02 piping 79.105.24.95:58442<->assets-cdn.github.com:443 ota=false connOta=false
+[DEBUG] 11:25:02 piping 79.105.24.95:58439<->assets-cdn.github.com:443 ota=false connOta=false
+[DEBUG] 11:25:02 piping 79.105.24.95:58438<->assets-cdn.github.com:443 ota=false connOta=false
+[DEBUG] 11:25:02 piping 79.105.24.95:58445<->camo.githubusercontent.com:443 ota=false connOta=false
+[DEBUG] 11:25:03 closed pipe 79.105.24.95:58387<->live.github.com:443
+[DEBUG] 11:25:04 new client 79.105.24.95:58453->172.31.17.121:8388
+[DEBUG] 11:25:04 connecting live.github.com:443
+[DEBUG] 11:25:04 piping 79.105.24.95:58453<->live.github.com:443 ota=false connOta=false
+[DEBUG] 11:25:11 closed pipe 79.105.24.95:58453<->live.github.com:443
+[DEBUG] 11:25:18 closed pipe 79.105.24.95:58447<->github.com:443
+[DEBUG] 11:25:18 closed pipe 79.105.24.95:58433<->api.github.com:443
+[DEBUG] 11:25:18 closed pipe 79.105.24.95:58444<->api.github.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58151<->e.mail.ru:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58227<->stat.radar.imgsmail.ru:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58221<->clients4.google.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58191<->www.google.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58311<->avatars3.githubusercontent.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58167<->www.google.ru:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58247<->www.google.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58233<->ogs.google.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58253<->www.googleadservices.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58271<->play.google.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58357<->api.github.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58351<->api.github.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58347<->www.google-analytics.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58314<->camo.githubusercontent.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58318<->github.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58241<->www.googleapis.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58183<->safebrowsing.googleapis.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58237<->adservice.google.ru:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58267<->apis.google.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58442<->assets-cdn.github.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58325<->avatars0.githubusercontent.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58435<->assets-cdn.github.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58343<->live.github.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58445<->camo.githubusercontent.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58439<->assets-cdn.github.com:443
+[DEBUG] 11:25:23 closed pipe 79.105.24.95:58438<->assets-cdn.github.com:443
